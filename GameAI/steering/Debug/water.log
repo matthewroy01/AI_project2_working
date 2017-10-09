@@ -1,0 +1,2 @@
+﻿  KinematicUnit.cpp
+f:\ai\ai_project1\gameai\steering\kinematicunit.cpp : fatal error C1041: cannot open program database 'F:\AI\AI_project1\GameAI\steering\Debug\vc141.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
